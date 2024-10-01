@@ -1,0 +1,11 @@
+com/food/table/Ingredients.class
+com/food/data/UserInterface.class
+com/food/table/User.class
+com/food/table/Recipe.class
+com/food/home/HomeServlet.class
+com/food/data/UserDAO.class
+com/repo/food/resources/JakartaEE10Resource.class
+com/food/table/Feedback.class
+com/repo/food/JakartaRestConfiguration.class
+com/food/table/Recipe_Ingredients.class
+com/food/config/ConnectorDB.class

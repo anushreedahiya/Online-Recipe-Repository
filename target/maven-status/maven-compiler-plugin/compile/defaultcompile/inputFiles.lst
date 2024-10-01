@@ -1,0 +1,11 @@
+desktop/NetBeansProjects/Food/src/main/java/com/repo/food/resources/JakartaEE10Resource.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/data/UserInterface.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/config/ConnectorDB.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/table/Feedback.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/table/Ingredients.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/data/UserDAO.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/table/User.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/home/HomeServlet.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/table/Recipe_Ingredients.java
+desktop/NetBeansProjects/Food/src/main/java/com/repo/food/JakartaRestConfiguration.java
+desktop/NetBeansProjects/Food/src/main/java/com/food/table/Recipe.java
